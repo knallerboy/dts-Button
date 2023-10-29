@@ -10,7 +10,7 @@ damn, that smart button
   - print the attached stl file
   - useful but not essential: use a JST connector
 
-  solder your button on a PCB with the two terminals from the JST connector (or your wire directly),
+  solder your button on a PCB with the two terminals from the JST connector (or you solder the wire directly),
   solder the wires to your designated pogo pin on the adapter plate of the Tracker
   
 
@@ -28,7 +28,7 @@ damn, that smart button
 
 
 ## thank you
-
-  - looking for help? https://discord.com/invite/ErZcKaQ @LineByLine
   - thanks to: https://www.mocapfusion.com/
+  - looking for help? https://discord.com/invite/ErZcKaQ @LineByLine
+    
 <br />![Screenshot 2023-10-29 115201](https://github.com/knallerboy/dts-Button/assets/116037667/e4102cc5-599c-4eb0-af0d-1aab13d08f7d)
